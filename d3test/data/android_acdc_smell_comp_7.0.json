@@ -1,0 +1,1552 @@
+{
+    "smells": [
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_lights",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_cover",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_samsung_accessory_manager_authentication",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_midi",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_twilight",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_log",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 3,
+            "classname": "com_android_server_display",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_cocktailbar_mode",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_general",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_settings",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "mf_org_apache_wml_dom",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_ucm",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_trust",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_license",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_ipsec_client",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "mf_org_apache_xerces_dom",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "fo":1,
+            "ui":1,
+            "sd":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_media_projection",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "mf_javax_xml_parsers",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_net",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "mf_javax_xml_namespace",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_usb",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_keys_content_x509",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_billing",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_usage",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_power",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_org_apache_html_dom",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_notification",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_updates",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "sd":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_firewall",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_dualsim",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_telecom",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_accessibility",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_input",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_javax_xml_xpath",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_utils",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_os",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sec_server_enterprise_knoxcustom",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sec_epdg_mapcon",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_accessory_manager_authentication_msg",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_restriction",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sec_epdg_throttle",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_epm",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_keys_storage_implementations",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_browser",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_dreams",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_samsung_android_sdk_dualscreen",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_wallpaper",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_camera",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sec_rll",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_datetime",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_kioskmode",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_smartclip",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_im",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_handler_proto_dskpp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_job",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_execute",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_samsung_android_sdk_cover",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_sec_epdg",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_keys",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_policy_cocktail",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_javax_xml_transform",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_provision",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_vpn",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_c14n_implementations",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_accessory_manager_authentication_cover",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_appwidget",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_utils",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_client",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_c14n_helper",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_sec_epdg_smartwifi",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_print",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_spay",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_bridge_operations",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_wifioffload",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_sso",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_pm",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_certificate",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_android_mdnie",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_android_iccc",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sec_epdg_handover",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_policy_sec",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_feeds",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_vpn_knoxvpn_proxyauth",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_ccm",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_apn",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_voiceinteraction",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_storage",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_handler_securedata",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_content",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sec_epdg_ipc",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_wm",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_wifi",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_enterprise_application",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_connectivity",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_search",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_sdp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "mf_javax_xml_datatype",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_location",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sec_sdp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_webkit",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_policy_keyguard",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_encryption",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "android_service",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_keys_storage",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_common",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_tv",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_geofencing",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_media",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_samsung_appdisabler",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_policy_cocktail",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_restrictions",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_backup",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_analytics_data_collection_utils",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_signature",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_KiesConnectivity",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_org_apache_xerces_dom_events",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_ucm_ucmservice",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_android_mscs",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_am",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "android_net_dhcp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_shutdown",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_audio",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_bridge",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sec_enterprise_knox_sdp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_accessory_manager_connectivity",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_javax_xml_stream",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_fingerprint",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_firewall",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_handler_proto_pskc_encryptionkey",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_handler_db",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_hdmi",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "android_net_http",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_email",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_job_controllers",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_emailksproxy",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_samsung_ucm_ucmservice_scp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_vpn_knoxvpn_storage",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_policy_state",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_accounts",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_lso",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_trustedpinpad",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_scep",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_enterprise",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_analytics_data_collection",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_javax_xml_validation",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_handler_xml",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_bluetooth",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_location",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "mf_javax_xml_transform_sax",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_container",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 2,
+            "classname": "com_android_server_enterprise_security",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_clipboardex",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_multiuser",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_smartcard",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_enterprise_device",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_transforms_implementations",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 0,
+            "all": 1,
+            "classname": "com_android_server_storage",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_internal_http_multipart",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_statusbar",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_samsung_android_audiofw",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_algorithms_implementations",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_devicepolicy",
+            "spf": 0,
+            "lo": 1,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_auditlog",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_keystore",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_remotecontrol",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_shareddevice",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_engine_handler_proto_pskc_signature",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_isl",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_keys_content_keyvalues",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_policy",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_keys_content",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server_enterprise_vpn_knoxvpn",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_analytics_data_collection_logcat",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_policy_multiwindow",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_content",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_cocktailbar_watcher",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 2,
+            "classname": "com_android_server",
+            "spf": 0,
+            "lo": 1,
+            "co": 0,
+            "fo":1,
+            "ui":1
+
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_analytics_data_collection_input",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_samsung_accessory_manager",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_adapterlayer",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_dlp",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sun_org_apache_xml_internal_security_algorithms",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_sec_enterprise_knox_sdp_engine",
+            "spf": 0,
+            "lo": 0,
+            "co": 0,
+            "ui":1
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_enterprise_otp_exceptions",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        },
+        {
+            "dc": 1,
+            "all": 1,
+            "classname": "com_android_server_clipboard",
+            "spf": 0,
+            "lo": 0,
+            "co": 0
+        }
+    ],
+    "version": "7_0_1"
+}
+

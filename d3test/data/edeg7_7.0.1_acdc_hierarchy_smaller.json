@@ -1,0 +1,1639 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$1",
+          "children": [
+              {
+                  "name": "test",
+                  "size": 1
+              }
+          ]
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$2"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$5"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$SvcLEDHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$4"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$3"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$SvcLEDReceiver"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsService$LightImpl"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.LightsManager"
+        },
+        {
+          "size": 1,
+          "name": "server.lights.Light"
+        },
+        {
+          "size": 1,
+          "name": "android.os.HandlerThread"
+        }
+      ],
+      "name": "server.lights.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "server.cover.SmartCoverAppController$1"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.SmartCoverAppController"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverTestModeUtils$2"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverTestModeUtils$1"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverTestModeUtils"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverTestModeUtils$OnCoverTestModeChanged"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverDisabler$1"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverDisabler"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverDisabler$DisableRecord"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverDisabler$CoverDisablerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverHideAnimator$3"
+        },
+        {
+          "size": 1,
+          "name": "android.animation.AnimatorListenerAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverHideAnimator$1"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverHideAnimator"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverHideAnimator$2"
+        },
+        {
+          "size": 1,
+          "name": "android.animation.TimeInterpolator"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.SViewCoverBaseServiceDelegate"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.StateNotifier"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.StateNotifier$1"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.StateNotifier$StateNotifierHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.LedCoverController$LedCoverControllerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.LedCoverController"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.LedCoverController$1"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.SerialManager"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.SerialPort"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.NfcLedCoverController$CallDurationTask"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.NfcLedCoverController$NfcLedCoverControllerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.NfcLedCoverController"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.NfcLedCoverController$Command"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.NfcLedCoverController$1"
+        },
+        {
+          "size": 1,
+          "name": "android.text.format.DateFormat"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$5"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$3"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$1"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$6"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerWhiteLists"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$2"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$CoverManagerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$CoverShapeThread"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverVerifier"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerService$4"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.CoverState"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.CoverManagerUtils"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.Feature"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.ICoverWindowStateListenerCallback"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.ICoverStateListenerCallback"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.StateNotifier$CoverStateListenerInfo"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.ICoverManagerCallback"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.ICoverWindowStateListenerCallback$Stub"
+        },
+        {
+          "size": 1,
+          "name": "server.cover.NfcLedCoverController$NfcLedTouchListenerInfo"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.android.cover.INfcLedCoverTouchListenerCallback"
+        }
+      ],
+      "name": "server.cover.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.CertBlacklister$BlacklistObserver$2"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.CertBlacklister$BlacklistObserver$1"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.CertBlacklister$AuthenticationSettingObserver"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.CertBlacklister"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.CertBlacklister$BlacklistObserver"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.CertBlacklister$CertBlacklistListener"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.Authenticator"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.AuthenticationSession$1"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.AuthenticationSession"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.AuthenticationSession$EventHandler"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.AuthenticationSession$SessionEventListener"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.connectivity.Connectivity"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.connectivity.Connectivity$StateChangedCallback"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.msg.MsgBuilder"
+        },
+        {
+          "size": 1,
+          "name": "com.samsung.accessory.manager.authentication.AuthenticatorClientImpl"
+        }
+      ],
+      "name": "com.samsung.accessory.manager.authentication.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "android.media.midi.IMidiDeviceServer"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.IMidiDeviceOpenCallback"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.IMidiDeviceListener"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService$Lifecycle"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService$1"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService$Client"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.IMidiManager$Stub"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService$DeviceConnection"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService$Device"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.MidiDeviceInfo"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.MidiDeviceStatus"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.IMidiDeviceServer$Stub"
+        },
+        {
+          "size": 1,
+          "name": "server.midi.MidiService$Device$1"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.IBluetoothMidiService$Stub"
+        },
+        {
+          "size": 1,
+          "name": "android.media.midi.IBluetoothMidiService"
+        }
+      ],
+      "name": "server.midi.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService$2"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService$3"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService$LocationHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.TwilightCalculator"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService$4"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService$1"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightService$TwilightListenerRecord"
+        },
+        {
+          "size": 1,
+          "name": "android.location.LocationManager"
+        },
+        {
+          "size": 1,
+          "name": "android.location.LocationListener"
+        },
+        {
+          "size": 1,
+          "name": "android.location.Criteria"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightListener"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightManager"
+        },
+        {
+          "size": 1,
+          "name": "server.twilight.TwilightState"
+        }
+      ],
+      "name": "server.twilight.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$3"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$1"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$FileLoggerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$LogFileWriter$1"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$LogBuffer"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$LogFileWriter"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.FileLogger$2"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.utils.IOExceptionHandler$IOProcessor"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.ConsoleLogger"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.LogManagerService$2"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.LogManagerService"
+        },
+        {
+          "size": 1,
+          "name": "android.app.enterprise.ILogManager$Stub"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.LogManagerService$1"
+        },
+        {
+          "size": 1,
+          "name": "server.enterprise.log.Logger"
+        }
+      ],
+      "name": "server.enterprise.log.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "server.display.CmdInfo"
+        },
+        {
+          "size": 1,
+          "name": "server.display.CmdInfo$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.CmdInfo$CmdType"
+        },
+        {
+          "size": 1,
+          "name": "server.display.RampAnimator$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.RampAnimator"
+        },
+        {
+          "size": 1,
+          "name": "android.view.Choreographer"
+        },
+        {
+          "size": 1,
+          "name": "server.display.RampAnimator$Listener"
+        },
+        {
+          "size": 1,
+          "name": "android.util.IntProperty"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeClient"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase$BridgeListner"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeServer"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase$BridgePeer"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase$BrigePeerDevice"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase$WBPMsg"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WfdBridgeBase$WBPMsgHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayAdapter$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayAdapter$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayAdapter$Listener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.LocalDisplayAdapter$LocalDisplayDevice"
+        },
+        {
+          "size": 1,
+          "name": "android.view.SurfaceControl$PhysicalDisplayInfo"
+        },
+        {
+          "size": 1,
+          "name": "server.display.LocalDisplayAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.LocalDisplayAdapter$LocalDisplayDevice$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.LocalDisplayAdapter$DisplayModeRecord"
+        },
+        {
+          "size": 1,
+          "name": "android.view.Display$Mode"
+        },
+        {
+          "size": 1,
+          "name": "server.display.VirtualDisplayAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.VirtualDisplayAdapter$VirtualDisplayDevice"
+        },
+        {
+          "size": 1,
+          "name": "server.display.VirtualDisplayAdapter$Callback"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.IVirtualDisplayCallback"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState$PhotonicModulator$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerState$PhotonicModulator"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayBlanker"
+        },
+        {
+          "size": 1,
+          "name": "android.util.FloatProperty"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierDisplayPolicy$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierDisplayPolicy"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.IDisplayManager$Stub"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierDisplayPolicy$DisplayInfo"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierSurfaceControl$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierSurfaceControl$Border"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierSurfaceControl$HoverPoint"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierSurfaceControl"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierSurfaceControl$Listener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierDisplayPolicy$OnSizeChangeListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$1$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayDisplayHandle$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayDisplayDevice"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayMode"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayDisplayHandle$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayDisplayHandle$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayDisplayHandle"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayAdapter$OverlayDisplayHandle$4"
+        },
+        {
+          "size": 1,
+          "name": "android.graphics.SurfaceTexture"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow$2"
+        },
+        {
+          "size": 1,
+          "name": "android.view.TextureView"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow$3"
+        },
+        {
+          "size": 1,
+          "name": "android.view.TextureView$SurfaceTextureListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow$1"
+        },
+        {
+          "size": 1,
+          "name": "android.view.ScaleGestureDetector$OnScaleGestureListener"
+        },
+        {
+          "size": 1,
+          "name": "android.view.ScaleGestureDetector"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow$Listener"
+        },
+        {
+          "size": 1,
+          "name": "android.opengl.EGLDisplay"
+        },
+        {
+          "size": 1,
+          "name": "android.opengl.GLES20"
+        },
+        {
+          "size": 1,
+          "name": "server.display.ColorFade"
+        },
+        {
+          "size": 1,
+          "name": "android.opengl.EGLContext"
+        },
+        {
+          "size": 1,
+          "name": "android.opengl.EGLSurface"
+        },
+        {
+          "size": 1,
+          "name": "android.opengl.EGL14"
+        },
+        {
+          "size": 1,
+          "name": "android.opengl.EGLConfig"
+        },
+        {
+          "size": 1,
+          "name": "server.display.ColorFade$NaturalSurfaceLayout"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$12"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$7"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$5"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$6"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$13"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$11"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$8"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$WfdBridgeAdapter$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$9"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$10"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$WfdBridgeAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.IpRemoteDisplayController$Listener"
+        },
+        {
+          "size": 1,
+          "name": "android.media.RemoteDisplay"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$AmbientLightRingBuffer"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$SettingsObserver$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$AutomaticBrightnessHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$UserSwitchedReceiver"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$SettingsObserver"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$OffsetPoint"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$6"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$PersonalAutoBrightness"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$1"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.Sensor"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.SensorEventListener"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.SensorManager"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.scontext.SContextListener"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.scontext.SContextManager"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.scontext.SContextAttribute"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$Callbacks"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$DynamicAutoBrightnessConfig"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.scontext.SContextAutoBrightnessAttribute"
+        },
+        {
+          "size": 1,
+          "name": "android.util.FloatMath"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$DisplayControllerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$7"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$5"
+        },
+        {
+          "size": 1,
+          "name": "android.view.animation.AccelerateInterpolator"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$8"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$6"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$ScreenOnUnblocker"
+        },
+        {
+          "size": 1,
+          "name": "android.util.Property"
+        },
+        {
+          "size": 1,
+          "name": "android.util.Spline"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.DisplayManagerInternal$DisplayPowerCallbacks"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayPowerController$ColorFadeStateRunnable"
+        },
+        {
+          "size": 1,
+          "name": "android.view.WindowManagerPolicy$ScreenOnListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$WifiDisplayHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$11"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$17"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$23"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$6"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$14"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$WifiDisplayDevice"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$9"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$25"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$2"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$21"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$10"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$7"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$12"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$19"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$8"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$13"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$5"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$22"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$15"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$24"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$20"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$18"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayAdapter$16"
+        },
+        {
+          "size": 1,
+          "name": "server.display.PersistentDataStore"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.DLNADevice"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$LocalService$1$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$DisplayManagerHandler"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$LocalService$2"
+        },
+        {
+          "size": 1,
+          "name": "android.media.projection.IMediaProjectionManager"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$DisplayAdapterListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.LogicalDisplay"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$LocalService$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$CallbackRecord"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$BinderService"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.IDisplayManagerCallback"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$LocalService$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$LocalService"
+        },
+        {
+          "size": 1,
+          "name": "android.view.DisplayInfo"
+        },
+        {
+          "size": 1,
+          "name": "server.power.PowerManagerUtil$TimeMeasurement"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.DisplayManagerInternal$DisplayTransactionListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayManagerService$SyncRoot"
+        },
+        {
+          "size": 1,
+          "name": "android.view.Display$ColorTransform"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayDevice"
+        },
+        {
+          "size": 1,
+          "name": "server.display.DisplayDeviceInfo"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.DisplayViewport"
+        },
+        {
+          "size": 1,
+          "name": "libcore.util.Objects"
+        },
+        {
+          "size": 1,
+          "name": "android.media.projection.IMediaProjection"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager$ConnectionInfoListener"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pGroup"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$30"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$29"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$14"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$16"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$26"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$19"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$15"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$24"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$28"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pConfig"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$27"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$18"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$7"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager$ChannelListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$17"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$22"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$6$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$12"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$3"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$13"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$25"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager$Channel"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$8"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager$PeerListListener"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pWfdInfo"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$1"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$5"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.WpsInfo"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$2"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager$GroupInfoListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$23"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pManager$ActionListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$4"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$21"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$6"
+        },
+        {
+          "size": 1,
+          "name": "android.provider.Settings$Global"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.DisplayManager"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.WifiDisplayStatus"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pDevice"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.WifiDisplay"
+        },
+        {
+          "size": 1,
+          "name": "android.media.RemoteDisplay$Listener"
+        },
+        {
+          "size": 1,
+          "name": "android.media.WFDUibcManager"
+        },
+        {
+          "size": 1,
+          "name": "android.media.RemoteDisplayCallback"
+        },
+        {
+          "size": 1,
+          "name": "android.media.RemoteDisplayCallback$Listener"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.display.WifiDisplaySessionInfo"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$Listener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.LocalDisplayAdapter$HotplugDisplayEventReceiver"
+        },
+        {
+          "size": 1,
+          "name": "android.view.DisplayEventReceiver"
+        },
+        {
+          "size": 1,
+          "name": "server.display.VirtualDisplayAdapter$MediaProjectionCallback"
+        },
+        {
+          "size": 1,
+          "name": "android.media.projection.IMediaProjectionCallback$Stub"
+        },
+        {
+          "size": 1,
+          "name": "server.display.OverlayDisplayWindow$5"
+        },
+        {
+          "size": 1,
+          "name": "android.view.ScaleGestureDetector$SimpleOnScaleGestureListener"
+        },
+        {
+          "size": 1,
+          "name": "server.display.AutomaticBrightnessController$5"
+        },
+        {
+          "size": 1,
+          "name": "android.hardware.scontext.SContextAutoBrightness"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierDisplayAdapter"
+        },
+        {
+          "size": 1,
+          "name": "server.display.MagnifierDevice"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pDeviceList"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$11"
+        },
+        {
+          "size": 1,
+          "name": "server.display.WifiDisplayController$20"
+        },
+        {
+          "size": 1,
+          "name": "android.net.wifi.p2p.WifiP2pInfo"
+        }
+      ],
+      "name": "server.display.ss"
+    },
+    {
+      "children": [
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateKidsMode$KidsModeObserver"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateKidsMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateAuthLockMode$AuthLockObserver"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateAuthLockMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateCarMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateEmergencyMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.NormalMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateRestrictMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.CocktailBarModeManager"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateKioskMDMMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateMirroLinkMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.PrivateKnoxMode"
+        },
+        {
+          "size": 1,
+          "name": "android.content.IntentFilter"
+        },
+        {
+          "size": 1,
+          "name": "android.os.Debug"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.CocktailBarManagerServiceListener"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.CocktailBarMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.AbsPrivateMode"
+        },
+        {
+          "size": 1,
+          "name": "server.cocktailbar.mode.CocktailBarMode$OnCocktailBarModeListener"
+        }
+      ],
+      "name": "server.cocktailbar.mode.ss"
+    }
+  ],
+  "name": "android_framework"
+}
