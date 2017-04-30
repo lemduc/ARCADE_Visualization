@@ -51,8 +51,10 @@
     }
 
 </style>
-<div id="area1"></div>
-<div id="area2"></div>
+<div>
+    <div id="area1" style="width: 45%; float:left" >Version 6.0  </div>
+    <div id="area2" style="width: 55%; float:right">Version 7.0 </div>
+</div>
 <body>
 <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
@@ -78,18 +80,20 @@
         .radius(function(d) { return d.y; })
         .angle(function(d) { return d.x / 180 * Math.PI; });
 
-    var svg = d3.select("body").append("svg")
-        .attr("width", diameter)
-        .attr("height", diameter)
-        .append("g")
-        .attr("transform", "translate(" + radius + "," + radius + ")");
 
     var svg2 = d3.select("body").append("svg")
         .attr("width", diameter)
         .attr("height", diameter)
         .append("g")
         .attr("transform", "translate(" + radius + "," + radius + ")");
-        //.append("circle").attr("cx", 25).attr("cy", 25).attr("r", 25).style("fill", "purple");
+    //.append("circle").attr("cx", 25).attr("cy", 25).attr("r", 25).style("fill", "purple");
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", diameter)
+        .attr("height", diameter)
+        .append("g")
+        .attr("transform", "translate(" + radius + "," + radius + ")");
+
 
     var link = svg.append("g").selectAll(".link"),
         node = svg.append("g").selectAll(".node");

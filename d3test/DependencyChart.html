@@ -51,8 +51,10 @@
     }
 
 </style>
-<div id="area1"></div>
-<div id="area2"></div>
+<div>
+        <div id="area1" style="width: 45%; float:left" >Version 6.0  </div>
+        <div id="area2" style="width: 55%; float:right">Version 7.0 </div>
+</div>
 <body>
 <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
@@ -78,18 +80,18 @@
         .radius(function(d) { return d.y; })
         .angle(function(d) { return d.x / 180 * Math.PI; });
 
-    var svg = d3.select("body").append("svg")
-        .attr("width", diameter)
-        .attr("height", diameter)
-        .append("g")
-        .attr("transform", "translate(" + radius + "," + radius + ")");
-
     var svg2 = d3.select("body").append("svg")
         .attr("width", diameter)
         .attr("height", diameter)
         .append("g")
         .attr("transform", "translate(" + radius + "," + radius + ")");
-        //.append("circle").attr("cx", 25).attr("cy", 25).attr("r", 25).style("fill", "purple");
+    //.append("circle").attr("cx", 25).attr("cy", 25).attr("r", 25).style("fill", "purple");
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", diameter)
+        .attr("height", diameter)
+        .append("g")
+        .attr("transform", "translate(" + radius + "," + radius + ")");
 
     var link = svg.append("g").selectAll(".link"),
         node = svg.append("g").selectAll(".node");
@@ -147,9 +149,21 @@
         node = node
             .data(nodes.filter(function(n) { return !n.children; }))
             .enter().append("text")
-//            .style("fill", function (d) { if (!checkDepChangeType(d, old_links)) { return '#05b408';}})
-//                                          if (checkChangeType(d.key, changes)== 4) { return '#b48a19';}
-//                                          if (checkChangeType(d.key, changes)== 5) { return '#b40017';}})
+            .style("fill", function (d) {
+//                if (!checkNewOutgoing(d, old_links)) {
+//                    if (!checkNewIncoming(d, old_links))
+//                        return '#10b400';
+//                    else
+//                        return '#b47500'
+//                }
+//                else {
+//                    if (!checkNewIncoming(d, old_links))
+//                        return '#b400ad';
+//                }
+//            })
+
+                                          if (!checkNewIncoming(d, old_links)) { return '#ae11b4';}})
+//                                          if (!checkNewOutgoing(d, old_links) && !checkNewIncoming(d, old_links)) { return '#11b40b';}})
             .attr("class", "node")
             .attr("dy", ".31em")
             .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
@@ -158,6 +172,11 @@
             .on("mouseover", mouseovered)
             .on("mouseout", mouseouted);
     });
+
+        // update nodes
+//        node = node
+//            .data(nodes.filter(function(n) { return !n.children; }))
+//            .style("fill", function (d) { if (!checkDepChangeType(d, old_links)) { return '#05b408';}});
 
 
     String.prototype.replaceAt=function(index, replacement) {
@@ -185,26 +204,47 @@
         }
     }
 
-    function checkDepChangeType(node, array) {
+    function checkNewOutgoing(node, array) {
 //        console.log(array)
 //        console.log(node)
-        for (var i = 0; i < array.length; i++){//array.length; i++){
-//            console.log(array[i].source)
-//            console.log(node)
-            if(array[i].source.key === node.key)
-            {
-                console.log(node.imports)
-                console.log(array[i].target.name)
-                console.log(node.imports.indexOf(array[i].target.name))
-                if (node.imports.indexOf(array[i].target.name)<0)
-                    return false;
+        outter:
+        for (var j = 0; j < node.imports.length; j ++) {
+            targetNode = node.imports[j];
+            var i;
+            for (i = 0; i < array.length; i++) {//array.length; i++){
+//                            console.log(array[i].source)
+                //            console.log(node)
+                if (array[i].source.key === node.key) {
+                    if (array[i].target.name === targetNode) {
+                        continue outter;
+                    }
+                }
             }
-//            if(node.key === array[i].target.key)
-//            {
-//                if (node.imports.indexOf(array[i].source.name)<0)
-//                    return false;
-//            }
+            return false;
         }
+        return true;
+    }
+
+    function checkNewIncoming(node, array) {
+//        console.log(array)
+//        console.log(node)
+        outter:
+            for (var j = 0; j < node.imports.length; j ++) {
+                targetNode = node.imports[j];
+                var i;
+                for (i = 0; i < array.length; i++) {//array.length; i++){
+//                                console.log(array[i].source)
+//                                console.log(node)
+                    if (array[i].source.name === targetNode) {
+                        if (array[i].target.key === node.key) {
+                            console.log(array[i].source)
+                            console.log(node)
+                            continue outter;
+                        }
+                    }
+                }
+                return false;
+            }
         return true;
     }
 
